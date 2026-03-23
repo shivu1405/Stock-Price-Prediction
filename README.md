@@ -107,8 +107,8 @@ for epoch in range(num_epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-Include your plot here
-<img width="912" height="513" alt="image" src="https://github.com/user-attachments/assets/1d65cf70-2a23-47b1-af51-b39447a743e4" />
+<img width="656" height="522" alt="image" src="https://github.com/user-attachments/assets/f5e79a33-68ef-4cb1-894f-342fc7e91784" />
+
 
 ### Predictions 
 
